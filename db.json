@@ -1,0 +1,100 @@
+{
+    "drones": [{
+            "id": 0,
+            "name": "Dji Mavic",
+            "manfacture": "dji",
+            "web": "www.dji.com",
+            "description": "",
+            "specifactions": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "addresses": [{
+                "addressId": 0,
+                "number": "5",
+                "line1": "Street",
+                "line2": "",
+                "postcode": "8200",
+                "country": "Switzerland"
+            }]
+        },
+        {
+            "id": 2,
+            "name": "Dji MavicPro",
+            "manfacture": "",
+            "web": "www.dji.com",
+            "description": "",
+            "specifactions": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "addresses": [{
+                "addressId": 0,
+                "number": "5",
+                "line1": "Street",
+                "line2": "",
+                "postcode": "0",
+                "country": "Switzerland"
+            }]
+        },
+        {
+            "id": 3,
+            "name": "Dji Phantom",
+            "manfacture": "",
+            "web": "www.dji.com",
+            "description": "",
+            "specifactions": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "addresses": [{
+                "addressId": 0,
+                "number": "5",
+                "line1": "Street",
+                "line2": "",
+                "postcode": "8200",
+                "country": "Switzerland"
+            }]
+        }, {
+            "id": 4,
+            "name": "Hubsan",
+            "manfacture": "",
+            "web": "www.hubsan.com",
+            "description": "",
+            "specifactions": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "addresses": [{
+                "addressId": 0,
+                "number": "5",
+                "line1": "Street",
+                "line2": "",
+                "postcode": "",
+                "country": "Switzerland"
+            }]
+        }
+
+    ]
+
+}
